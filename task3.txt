@@ -1,0 +1,37 @@
+git clone "Url"  - it copies all files to local machines
+git pull   - it only copies the modified files to the local machine
+git push origin master  - it pushes the code from local machine to git repository
+git commit -m "message"
+git add .  - 
+git log
+git log --patch -1
+git status  - it checks the status of existing project or folder - (whether it is in modified or staging or commited state)
+
+
+CSS Selectors Selenium:
+
+# represents id   ex: css=tag#id	
+. represents class  ex: css=tag.class	
+css=tag[attribute=value]	
+css=tag:contains("inner text")
+css=tag.class[attribute=value]
+
+css=a.my-link stretched-link
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
